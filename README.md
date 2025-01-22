@@ -1,3 +1,20 @@
+Fiz um vídei falando sobre as IAs. Abaixo o texto em portugues e inglês.
+
+ENGLISH
+"Discover how Artificial Intelligence (AI) is revolutionizing content creation!
+
+Technologies like ChatGPT and DALL-E use deep learning to autonomously generate text, images, music and code. Applied in marketing, design, entertainment and education, they unlock innovation and creativity.
+
+But ethical challenges and workforce impact arise. The future of generative AI is being written now. What's next?"
+
+PORTUGUÊS
+"Descubra como as Inteligências Artificiais (IAs) estão revolucionando a criação de conteúdo!
+
+Tecnologias como ChatGPT e DALL-E utilizam aprendizado profundo para gerar texto, imagens, música e código autonomamente. Aplicadas em marketing, design, entretenimento e educação, elas abrem novas possibilidades para inovação e criatividade.
+
+Mas também surgem desafios éticos e impacto no mercado de trabalho. O futuro das IAs generativas está sendo escrito agora. Qual será o limite?"
+
+
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
